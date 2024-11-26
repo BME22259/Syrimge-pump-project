@@ -28,6 +28,11 @@ This project demonstrates the design and implementation of a **syringe pump** us
 - DIY automation projects
 
 This project is ideal for students, hobbyists, and researchers looking to explore the intersection of microcontrollers and fluid mechanics.
+## Flow chart
+![Flow chart of Syringe Pump](Flowchart.jpg)
+## Block diagram
+![Block diagram of Syringe Pump](Block diagram.pdf)
+
 
 
 
