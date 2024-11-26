@@ -16,6 +16,11 @@ This project demonstrates the design and implementation of a **syringe pump** us
 - ESP 32 Board
 - Stepper motor and gearbox
 - 3D-printed syringe holder
+- Encoder
+- Potentiometer
+- Switch
+- Button
+- Buzzer
 - Syringe 
 - Power supply
 - Optional: LCD or OLED display for user interface
@@ -31,7 +36,9 @@ This project is ideal for students, hobbyists, and researchers looking to explor
 ## Flow chart
 ![Flow chart of Syringe Pump](Flowchart.jpg)
 ## Block diagram
-![Block diagram of Syringe Pump](Block diagram.pdf)
+![Block diagram of Syringe Pump](BlockDiagram.png)
+## State Diagram
+![State diagram of Syringe Pump](StateDiagram.png)
 
 
 
