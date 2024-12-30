@@ -35,7 +35,7 @@ This project demonstrates the design and implementation of a **syringe pump** us
 
 This project is ideal for students, hobbyists, and researchers looking to explore the intersection of microcontrollers and fluid mechanics.
 ## Flow chart
-![Flow chart of Syringe Pump](Flowchart.jpg)
+![Flow chart of Syringe Pump](https://github.com/BME22259/Syrimge-pump-project/blob/main/Flow%20Chart.png?raw=true)
 ## Block diagram
 ![Block diagram of Syringe Pump](https://github.com/BME22259/Syrimge-pump-project/blob/main/Block%20Diagram.png?raw=true)
 ## State Diagram
