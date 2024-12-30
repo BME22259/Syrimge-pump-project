@@ -37,7 +37,7 @@ This project is ideal for students, hobbyists, and researchers looking to explor
 ## Flow chart
 ![Flow chart of Syringe Pump](Flowchart.jpg)
 ## Block diagram
-![Block diagram of Syringe Pump](BlockDiagram.png)
+![Block diagram of Syringe Pump](https://github.com/BME22259/Syrimge-pump-project/blob/main/Block%20Diagram.png?raw=true)
 ## State Diagram
 ![State diagram of Syringe Pump](StateDiagram.png)
 
