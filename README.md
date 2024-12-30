@@ -13,17 +13,18 @@ This project demonstrates the design and implementation of a **syringe pump** us
 
 ## Components
 
-- ESP 32 Board
-- Stepper motor and gearbox
+- ESP 32 Board with ESP 32 expansion board
+- Stepper motor
+- TMC 2208 driver motor
 - 3D-printed syringe holder
 - Encoder
 - Potentiometer
-- Switch
-- Button
+- Limit Switch
+- Keypad
 - Buzzer
-- Syringe 
+- 25ml Syringe 
 - Power supply
-- Optional: LCD or OLED display for user interface
+- LCD with i2c module
 
 ## Applications
 
