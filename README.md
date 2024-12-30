@@ -43,7 +43,7 @@ This project is ideal for students, hobbyists, and researchers looking to explor
 ## State Diagram
 ![State diagram of Syringe Pump](https://github.com/BME22259/Syrimge-pump-project/blob/main/State%20Diagram.png?raw=true)
 ## Circuit Diagram
-![Circuit Diagram of Syringe Pump](https://github.com/BME22259/Syrimge-pump-project/blob/main/Flow%20Chart.png?raw=true)
+![Circuit Diagram of Syringe Pump](https://github.com/BME22259/Syrimge-pump-project/blob/main/Circuit%20Diagram.png?raw=true)
 ## 3D View
 ![3D View of Syringe Pump](https://github.com/BME22259/Syrimge-pump-project/blob/main/Flow%20Chart.png?raw=true)
 
